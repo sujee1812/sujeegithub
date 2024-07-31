@@ -1,0 +1,23 @@
+.large_header {
+    color:blue;
+    @media screen and (max-width: 992px) {
+        text-align: center;
+        color: green;
+        font-size: 90px;
+    }
+@media screen and (min-width:1024px) and (max-width: 1366px){
+
+}
+    
+}
+
+
+    .medium_header{
+        color:red;
+
+    }
+    .small_heading{
+        color:yellow;
+
+
+    }

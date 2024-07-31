@@ -1,0 +1,52 @@
+.sample-background {
+ background-image: url("blue.jpeg");
+ background-repeat: no-repeat;
+ height: 700px;
+ background-size: cover;
+ @media screen and (max-width:992px){
+    
+ }
+
+}
+
+.main_section {
+    padding-top: 40px;
+    scroll-padding-left: 80px;
+}
+
+.header_allignments {
+    font-size: 35px;
+    color: white;
+    font-weight: ;
+
+}
+
+.sub_header_allignmets{
+    font-size: 22px;
+    color: white;
+    font-weight: 100;
+}
+
+.button_allignments{
+    background-color: red;
+    width: 155px;
+    border-radius: 50px;
+    height: 40px;
+
+}
+
+.button_text{
+   color:white;
+}
+.card-allignments{
+    width: 90%;
+
+}
+.image_allugnments{
+padding-left: 30px;
+padding-top: 40px;
+padding: bottom 40px;;
+
+}
+
+
